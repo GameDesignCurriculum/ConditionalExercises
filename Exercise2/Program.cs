@@ -1,5 +1,8 @@
 ﻿namespace Exercise2
 {
+    /// <summary>
+    /// Exercise 2: Explore the if else statement
+    /// </summary>
     internal class Program
     {
         static void Main(string[] args)

@@ -1,6 +1,6 @@
 ﻿namespace Exercise1
 {/// <summary>
-/// Your first if statement
+/// Exercise1 : Explore the if statement
 /// </summary>
     internal class Program
     {
